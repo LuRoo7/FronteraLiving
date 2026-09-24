@@ -1,0 +1,1 @@
+import{b as e,l as t}from"./runtime-core.esm-bundler-DkHzNO4_.js";import{t as n}from"./_plugin-vue_export-helper-BDNMzG2s.js";var r={};function i(n,r){return e(),t(`h1`,null,`h`)}var a=n(r,[[`render`,i]]);export{a as default};

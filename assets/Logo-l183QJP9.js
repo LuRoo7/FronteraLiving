@@ -1,1 +1,0 @@
-var e=`/FronteraLiving/assets/Logo-DmqXsL-B.png`;export{e as t};
